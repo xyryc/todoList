@@ -139,3 +139,27 @@ const styles = StyleSheet.create({
   },
   addText: {},
 });
+
+//eas.json
+// {
+//   "cli": {
+//     "version": ">= 7.3.0"
+//   },
+//   "build": {
+//     "development": {
+//       "developmentClient": true,
+//       "distribution": "internal",
+//       "channel": "development"
+//     },
+//     "preview": {
+//       "distribution": "internal",
+//       "channel": "preview"
+//     },
+//     "production": {
+//       "channel": "production"
+//     }
+//   },
+//   "submit": {
+//     "production": {}
+//   }
+// }
