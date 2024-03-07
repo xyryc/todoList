@@ -1,6 +1,6 @@
 # Get It Done 📝📲
 
-![App Screenshots](./screenshots/mockup.jpg)
+<img src="./screenshots/mockup.jpg" width="250" alt="Screenshot 1">
 
 ## Overview
 
@@ -42,7 +42,7 @@
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot_ios.PNG)
+<img src="./screenshots/screenshot_ios.PNG" width="250" alt="ios Screenshot 2">
 <!-- Add more screenshots as needed -->
 
 ## Usage
